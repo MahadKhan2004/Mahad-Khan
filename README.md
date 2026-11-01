@@ -22,7 +22,8 @@ I'm a cybersecurity student at Centenary University learning threat detection, i
 
 ## 📌 Featured Projects
 
-Check out my [project name](link-to-repo) where I [brief description]
+Check out my Exploiting-Vulnerable-Hosts-4e--Ethical-Hacking
+https://github.com/MahadKhan2004/Exploiting-Vulnerable-Hosts-4e--Ethical-Hacking/blob/1fbaf892d96e19979f7d5c9961447a88e15b22bf/README.md  where I conduct a hands-on academic lab project that demonstrates network reconnaissance, vulnerability exploitation, credential harvesting, and password cracking.
 
 ## 📫 Let's Connect
 
